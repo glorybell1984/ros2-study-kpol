@@ -1,0 +1,15 @@
+# colcon
+build/
+install/
+log/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# ROS bags / maps (commit maps only if needed)
+*.db3
+rosbag2_*/
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
