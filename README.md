@@ -1,6 +1,6 @@
 # ROS 2 Study · KPOL
 
-SeSAC Physical AI 강남 3기 ROS2 스터디 (4명: Kang, Park, Oh, Lee)
+SeSAC Physical AI 강남 3기 ROS2 스터디 (5명: Kang, Park, Oh, Lee, Sung)
 매주 화·목 1시간 · Discord 온라인 · 2026-10-27 ~ 11/12
 
 > 계획, 세션 캘린더, 📒 오답노트, 📖 매일 복습 기록은 **노션**에 있다. 이 레포는 **코드**만 모은다.
@@ -23,6 +23,7 @@ ros2-study-kpol/
 │   ├── kang/
 │   ├── park/
 │   ├── oh/
+│   ├── sung/
 │   └── lee/
 └── docs/
     └── daily-review.md    # 매일 복습 루틴
